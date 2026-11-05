@@ -9,7 +9,7 @@
   </p>
 
   <p align="center">
-    📍 <b>Cairo, Egypt</b> &nbsp; | &nbsp; ✉️ <a href="mailto:1alnjm1a@gmail.com">1alnjm1a@gmail.com</a>
+    📍 <b>Cairo, Egypt</b> &nbsp; | &nbsp; ✉️ <a href="mailto:1alnjm1a@gmail.com">ahmed.m.kasrawi@gmail.com</a>
   </p>
 
   <p align="center">
