@@ -26,7 +26,7 @@
 - 💻 **مطور واجهات ومواقع ويب (Frontend / Web Developer)** شغوف بتصميم وتطوير تجارب مستخدم سريعة، تفاعلية، ومتجاوبة.
 - 🔭 أعمل حالياً على تطوير تطبيقات ومتاجر إلكترونية باستخدام **React** و **Tailwind CSS**.
 - ⚡ أهتم بكتابة كود نظيف (Clean Code)، وتحسين أداء المواقع وسرعتها (Web Performance & SEO).
-- 📫 تواصل معي: **[1alnjm1a@gmail.com](mailto:1alnjm1a@gmail.com)**
+- 📫 تواصل معي: **[ahmed.m.kasrawi@gmail.com](mailto:ahmed.m.kasrawi@gmail.com)**
 
 ---
 
