@@ -4,7 +4,7 @@
 
   <p align="center">
     <a href="https://github.com/ahmedkasrawi">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Ahmed+Kasrawi!+👋;Frontend+%26+Web+Developer;Building+modern+web+applications;Passionate+about+React+%26+Clean+Code" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Ahmed+Kasrawi!;Frontend+and+Web+Developer;Building+modern+web+applications;Passionate+about+React+and+Clean+Code" alt="Typing SVG" />
     </a>
   </p>
 
@@ -73,12 +73,7 @@
 ### 📊 إحصائيات GitHub / Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedkasrawi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkasrawi&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkasrawi&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=ahmedkasrawi&cc=0d1117&tc=58a6ff&ic=3fb950&bc=30363d" width="60%" alt="GitHub Stats" />
 </div>
 
 ---
